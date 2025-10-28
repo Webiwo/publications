@@ -6,7 +6,7 @@ Uczenie maszynowe (Machine Learning) i sztuczna inteligencja (Artificial Intelli
 Dzisiaj możemy korzystać z tych algorytmów ze względu na moc obliczeniową procesorów i jednostek graficznych GPU, ale aby osiągnąć oczekiwane resultaty musimy zastosować się do pewnego uporządkowanego ciągu kroków i operacji, które prowadzą od surowych danych do działającego modelu ML i jego wdrożenia oraz posiadać też pewne kompetencje, które mogą być bardzo pomocne w ich realizacji. I o tym będzie mowa, o 6 krokach do osiągnięcia określonego celu z wykorzystaniem uczenia maszynowego.
 
 
-![Machine Learning Workflow](./images/ML_Workflow.png)
+![Machine Learning Workflow](images/ML_Workflow.png)
 
 ---
 
