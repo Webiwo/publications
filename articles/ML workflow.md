@@ -6,7 +6,8 @@ Uczenie maszynowe (Machine Learning) i sztuczna inteligencja (Artificial Intelli
 Dzisiaj możemy korzystać z tych algorytmów ze względu na moc obliczeniową procesorów i jednostek graficznych GPU, ale aby osiągnąć oczekiwane resultaty musimy zastosować się do pewnego uporządkowanego ciągu kroków i operacji, które prowadzą od surowych danych do działającego modelu ML i jego wdrożenia oraz posiadać też pewne kompetencje, które mogą być bardzo pomocne w ich realizacji. I o tym będzie mowa, o 6 krokach do osiągnięcia określonego celu z wykorzystaniem uczenia maszynowego.
 
 
-![Machine Learning Workflow](./images/ML_Workflow.png)
+<img width="1492" height="949" alt="image" src="https://github.com/user-attachments/assets/5f55c7f9-49a3-4ff8-954f-ed513571b666" />
+
 
 ---
 
@@ -55,7 +56,7 @@ I dochodzimy do serca całego projektu uczenia maszynowego. Teraz trzeba tylko w
 ---
 
 ## **Eksperymentowanie**
-Tu przyda się zwinne podejście do tematu. Przydadzą się nam do tego etapu wszystkie pomiary i metryki jakościowe. Dzięki nim będziemy wiedzieli np. czy model jest przetrenowany czy może niedotrenowany, co pozwoli na odpowiednie dostrojenie modelu. Może trzeba będzie poeksperymentować z danymi, aby w trakcie uczenia modelu dostarczać mu różne porcje danych. Może czaka nas kolejna porcja transformacji danych np. przy użyciu techniki augmentacji, czyli sztucznego zwiększenia liczby przykładów w zbiorze danych przez stworzenie nowych, zmodyfikowanych wersji istniejących danych treningowych. A może trzeba będzie porzucić dotychczasową drogę i zacząć od początku. Uczymy się na obserwacjach, popełnionych błędach i wdrażamy proces ciągłego doskonalenia (Plan-Do-Check-Act). Zastanawiamy się jak zmienić dotychczasowe kroki w oparciu o to co odkryliśmy i przystępujemy do kolejnej iteracji. Chciałoby się rzecz do kolejnego sprintu, bazując na terminologii Srcum. W końcu po kilku iteracjach może się okazać, że osiągnęliśmy sukces, ale może też być zupełnie odwrotnie. Wówczas trzeba będzie zaprezentować wyniki osobom odpowiedzialnym za podejmowanie kluczowych decyzji w organizacji – a więc po serii analiz konieczna będzie synteza i prezentacja zebranych wyników, czyli stworzenie holistycznego obrazu sytuacji, który pomoże w podjęciu strategicznych decyzji biznesowych.
+Tu przyda się zwinne podejście do tematu. Przydadzą się nam do tego etapu wszystkie pomiary i metryki jakościowe. Dzięki nim będziemy wiedzieli np. czy model jest przetrenowany czy może niedotrenowany, co pozwoli na odpowiednie dostrojenie modelu. Może trzeba będzie poeksperymentować z danymi, aby w trakcie uczenia modelu dostarczać mu różne porcje danych. Może czaka nas kolejna porcja transformacji danych np. przy użyciu techniki augmentacji, czyli sztucznego zwiększenia liczby przykładów w zbiorze danych przez stworzenie nowych, zmodyfikowanych wersji istniejących danych treningowych. A może trzeba będzie porzucić dotychczasową drogę i zacząć od początku. Uczymy się na obserwacjach, popełnionych błędach i wdrażamy proces ciągłego doskonalenia (Plan-Do-Check-Act). Zastanawiamy się jak zmienić dotychczasowe kroki w oparciu o to co odkryliśmy i przystępujemy do kolejnej iteracji. Chciałoby się rzec - do kolejnego sprintu, bazując na terminologii Srcum. W końcu po kilku iteracjach może się okazać, że osiągnęliśmy sukces, ale może też być zupełnie odwrotnie. Wówczas trzeba będzie zaprezentować wyniki osobom odpowiedzialnym za podejmowanie kluczowych decyzji w organizacji – a więc po serii analiz konieczna będzie synteza i prezentacja zebranych wyników, czyli stworzenie holistycznego obrazu sytuacji, który pomoże w podjęciu strategicznych decyzji biznesowych.
 
 
 ---
